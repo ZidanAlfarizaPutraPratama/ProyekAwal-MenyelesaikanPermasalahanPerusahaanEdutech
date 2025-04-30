@@ -1,4 +1,4 @@
-# 🧠 Proyek Akhir: Menyelesaikan Permasalahan Human Resources
+# 🧠 Proyek Awal: Menyelesaikan Permasalahan Human Resources
 
 ![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python)
 ![XGBoost](https://img.shields.io/badge/Model-XGBoost-brightgreen)
